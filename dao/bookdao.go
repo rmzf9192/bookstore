@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"bookstore0612/model"
-	"bookstore0612/utils"
+	"bookstore/model"
+	"bookstore/utils"
 	"strconv"
 )
 

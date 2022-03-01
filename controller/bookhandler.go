@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"bookstore0612/dao"
-	"bookstore0612/model"
+	"bookstore/dao"
+	"bookstore/model"
 	"html/template"
 	"net/http"
 	"strconv"

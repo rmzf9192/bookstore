@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"bookstore0612/model"
-	"bookstore0612/utils"
+	"bookstore/model"
+	"bookstore/utils"
 )
 
 //CheckUserNameAndPassword 根据用户名和密码从数据库中查询一条记录

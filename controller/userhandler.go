@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"bookstore0612/dao"
-	"bookstore0612/model"
-	"bookstore0612/utils"
+	"bookstore/dao"
+	"bookstore/model"
+	"bookstore/utils"
 	"html/template"
 	"net/http"
 )

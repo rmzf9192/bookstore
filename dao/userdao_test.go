@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"bookstore0612/model"
+	"bookstore/model"
 	"fmt"
 	"testing"
 	"time"

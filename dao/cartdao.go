@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"bookstore0612/model"
-	"bookstore0612/utils"
+	"bookstore/model"
+	"bookstore/utils"
 )
 
 //AddCart 向购物车表中插入购物车

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bookstore0612/controller"
+	"bookstore/controller"
 	"net/http"
 )
 
